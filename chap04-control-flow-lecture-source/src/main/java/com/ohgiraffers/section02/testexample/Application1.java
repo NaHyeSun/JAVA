@@ -10,7 +10,8 @@ public class Application1 {
         Bb_for b = new Bb_for();
 //        b.testExampleForStatement1();
 //        b.testExampleForStatment2();
-        b.testExampleForStatment3();
+//        b.testExampleForStatment3();
+        b.testExampleForStatment4();
 
 
 

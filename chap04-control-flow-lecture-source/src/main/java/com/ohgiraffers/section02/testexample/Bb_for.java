@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Bb_for {
 
-     /* 실습문제 1*/
+    /* 실습문제 1*/
     /* /* 1부터 입력 받은 정수까지의 짝수의 합을 출력하세요.
      * -- 입력 예시 --
      * 정수를 입력하세요 : 10
@@ -12,7 +12,7 @@ public class Bb_for {
      * -- 출력 예시 --
      * 1부터 10까지 짝수의 합 : 30*/
 
-    public void testExampleForStatement1(){
+    public void testExampleForStatement1() {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("정수를 입력하세요 ");
@@ -20,16 +20,16 @@ public class Bb_for {
 
         int sum1 = 0;
 
-        for( int i= 0; i <= Num1; i++){
-            if(i % 2 == 0){
-            sum1 +=i;
+        for (int i = 0; i <= Num1; i++) {
+            if (i % 2 == 0) {
+                sum1 += i;
 
             }
         }
         System.out.println("1부터" + Num1 + "까지의 짝수의 합: " + sum1);
     }
 
-    public void testExampleForStatment2(){
+    public void testExampleForStatment2() {
         /* 실습문제2 */
         /*정수를 입력받아 1부터 입력받은 정수까지
          * 홀수이면 "토", 짝수이면 "마"가 정수만큼 누적되어 출력되도록 하세요.
@@ -44,13 +44,13 @@ public class Bb_for {
         System.out.println("정수를 입력하세요.");
         int num1 = sc.nextInt();
 
-        int sum1 =0;
+        int sum1 = 0;
 
-        for( int i= 1; i<=num1; i++){
-            if(i % 2 == 1){
+        for (int i = 1; i <= num1; i++) {
+            if (i % 2 == 1) {
                 System.out.print("토");
 
-            }else {
+            } else {
                 System.out.print("마");
 
             }
@@ -109,24 +109,51 @@ public class Bb_for {
         Scanner sc = new Scanner(System.in);
 
 
-
-        for(;;){
+        for (; ; ) {
             count++;
             System.out.println("정수를 입력하세요");
             int randomNum1 = sc.nextInt();
-                if (random < randomNum1) {
-                    System.out.println("정수보다 작습니다.");
-                } else if (random > randomNum1) {
-                    System.out.println("정수보다 큽니다.");
-                } else {
+            if (random < randomNum1) {
+                System.out.println("정수보다 작습니다.");
+            } else if (random > randomNum1) {
+                System.out.println("정수보다 큽니다.");
+            } else {
                 System.out.println("정답입니다. " + count + " 회 만에 정답을 맞추셨습니다. ");
                 break;
-                }
-
             }
 
-    }
+        }
 
+
+    }
+     /*실습문제 3 다른 풀이값 */
+    public void testExampleForStatment4() {
+        int random = (int) (Math.random() * 100) + 1;
+        Scanner sc = new Scanner(System.in);
+        int input = 0;
+
+        int i = 0;
+
+        do {
+            System.out.println("정수를 입력하세요: ");
+            input = sc.nextInt();
+            i += 1;
+            if(input < random){
+                System.out.println("정수가 난수보다 작습니다.");
+                continue;
+            }else if (input > random){
+                System.out.println("정수가 난수보다 큽니다.");
+                continue;
+            }else{
+                System.out.println("정답입니다.");
+                break;
+            }
+
+        }while (i <= 100);
+        System.out.println(i +"회 만에 정답을 맞추셨습니다. ");
+        sc.close();
+
+    }
 }
 
 
