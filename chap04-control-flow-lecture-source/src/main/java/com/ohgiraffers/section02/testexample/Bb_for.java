@@ -19,7 +19,7 @@ public class Bb_for {
 
         int sum1 = 0;
 
-        for( int i= 1; i <= Num1; i++){
+        for( int i= 0; i <= Num1; i++){
             if(i % 2 == 0){
             sum1 +=i;
 
@@ -56,4 +56,25 @@ public class Bb_for {
 
         }
     }
+    /*다른풀이.
+    *   String str1 = "토";
+        String str2 = "마";
+        String result = "";
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("정수를 입력하세요 : ");
+        int num = sc.nextInt();
+
+        for(int i = 1; i <= num; i++){
+            if(i % 2 != 0){
+                result += str1;
+            }else{
+                result += str2;
+            }
+        }
+
+        System.out.println(result);
+        *
+        * */
 }

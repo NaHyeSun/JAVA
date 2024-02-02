@@ -5,10 +5,12 @@ public class Application1 {
     Aa_if a = new Aa_if();
   //  a.testExample5Statement();
 //        a.testExample6Statement();
+        a.testExample7Statement();
 
         Bb_for b = new Bb_for();
-        b.testExampleForStatement1();
+//        b.testExampleForStatement1();
 //        b.testExampleForStatment2();
+
 
 
     }
