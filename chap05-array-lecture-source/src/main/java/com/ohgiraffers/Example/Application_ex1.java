@@ -84,7 +84,8 @@ public class Application_ex1 {
         int randomNum1 = (int)(Math.random() * 45+1);
 
         int iarr2 =randomNum1+iarr.length;
-        for (int i = 0; i <= iarr.length; i++) {
+
+        for (int i = 0; i < iarr.length; i++) {
 
             for (int j = i + 1; j < iarr.length; j++) {
 
