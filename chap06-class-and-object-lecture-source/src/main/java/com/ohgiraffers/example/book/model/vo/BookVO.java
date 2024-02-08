@@ -1,4 +1,4 @@
-package com.ohgiraffers.normal.book.model.vo;
+package com.ohgiraffers.example.book.model.vo;
 
 public class BookVO {
     String title;
