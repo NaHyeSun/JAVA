@@ -56,6 +56,7 @@ public class LibraryMenu {
 
     for(int i=0; i < bList.length; i++){
         System.out.println(i+ "번도서는" + bList[i]);
+
 //                bList[i].getTitle()+bList[i].getAuthor()+bList[i].getPublisher()+ bList[i]
        }
     }
