@@ -7,7 +7,7 @@ import com.hw1.model.dto.Member;
 
 public class LibraryManager {
 
-    private Member mem = null;
+    private Member mem = null;       //Member class에서 작성한 메소드를 쓸 수 있도록 정의.
     private Book[] bList = new Book [5];{
 
         bList[0] = new CookBook("백종원의 집밥","백종원","tvN",true);
@@ -29,6 +29,7 @@ public class LibraryManager {
         return bList;
     }
     public Book[] searchBook (String keyword){
+
         Book[] resultBooks = new Book[5];
 
         int count = 0;
@@ -50,7 +51,8 @@ public class LibraryManager {
                 AniBook aniBook = (AniBook)bList[index];
                 if(mem.getAge() < aniBook.getAccessAge()){
                     result=1;
-
+                    //if(((AniBook) bList[index]).getAccessAge() > mem.getAge()) {
+                    //   AniBook으로 형변환 필요
             }
             }else if(bList[index] instanceof CookBook){
                 CookBook cookBook = (CookBook)bList[index];

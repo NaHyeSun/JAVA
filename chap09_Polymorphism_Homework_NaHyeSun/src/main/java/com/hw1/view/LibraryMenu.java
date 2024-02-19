@@ -20,6 +20,7 @@ public class LibraryMenu {
 
         Member member = new Member(name,age,gender);
         lm.insertMember(member);
+        //lm.insertMember(new Member (name,age,gender));
 
         while (true) {
 
