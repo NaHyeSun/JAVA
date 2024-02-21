@@ -5,27 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d9e4b80-b21f-431a-a80e-f25abfd0e62e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/comparator/AscBookTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/comparator/DescBookTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/controller/BookManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/model/dto/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/run/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/src/main/java/com/ohgiraffers/hw1/view/BookMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testproject-nahyesun/src/main/java/com/ohgiraffers/test/controller/BookManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testproject-nahyesun/src/main/java/com/ohgiraffers/test/model/comparator/AscCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testproject-nahyesun/src/main/java/com/ohgiraffers/test/model/comparator/DescCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testproject-nahyesun/src/main/java/com/ohgiraffers/test/model/dto/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testproject-nahyesun/src/main/java/com/ohgiraffers/test/run/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testproject-nahyesun/src/main/java/com/ohgiraffers/test/view/BookMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap09_Polymorphism_Homework_NaHyeSun/src/main/java/com/hw1/controller/LibraryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09_Polymorphism_Homework_NaHyeSun/src/main/java/com/hw1/controller/LibraryManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap09_Polymorphism_Homework_NaHyeSun/src/main/java/com/hw1/view/LibraryMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap09_Polymorphism_Homework_NaHyeSun/src/main/java/com/hw1/view/LibraryMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/comparator/AscHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/controller/HelloWorldManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/GyroDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/MerryGoRound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/PersonDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/Viking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/run/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/veiw/HelloWorldMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testproject-nahyesun/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testproject-nahyesun/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +31,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="objectTest" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,6 +108,8 @@
       <workItem from="1708043058191" duration="13743000" />
       <workItem from="1708301836366" duration="1113000" />
       <workItem from="1708308664173" duration="1300000" />
+      <workItem from="1708414117402" duration="9000" />
+      <workItem from="1708493326522" duration="25000" />
     </task>
     <servers />
   </component>
