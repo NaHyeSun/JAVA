@@ -46,7 +46,7 @@ FROM
 WHERE
 	category_code NOT IN (10, 9, 8)
     AND menu_price = 13000
-    AND orderable_status <>'N';
+    AND orderable_status <>'N';    -- <> 는 != 와 동일한 기능이다. 
     
     
 

@@ -5,22 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d9e4b80-b21f-431a-a80e-f25abfd0e62e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/comparator/AscHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/controller/HelloWorldManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/GyroDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/MerryGoRound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/PersonDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/Viking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/run/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/veiw/HelloWorldMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap12-collection-practice-source/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testproject-nahyesun/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testproject-nahyesun/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/comparator/AscHeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/controller/HelloWorldManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/GyroDrop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/MerryGoRound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/PersonDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/model/dto/Viking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/run/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study-miniproject-everland/src/main/java/com/one/veiw/HelloWorldMenu.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,26 +72,26 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.objectTest [:Application.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/dev/lecture_code/JavaFoundation/objectTest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/objectTest/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.objectTest [:Application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/objectTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/objectTest/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,6 +113,7 @@
       <workItem from="1708308664173" duration="1300000" />
       <workItem from="1708414117402" duration="9000" />
       <workItem from="1708493326522" duration="25000" />
+      <workItem from="1708562112260" duration="4000" />
     </task>
     <servers />
   </component>

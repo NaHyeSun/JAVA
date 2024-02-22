@@ -68,4 +68,4 @@ FROM
 group by
 	menu_price,
     category_code
-WITH rollup;
+WITH rollup;            -- 전체 합계에 대한 행이 추가된다. 
