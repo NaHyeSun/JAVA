@@ -39,10 +39,10 @@ public class PersonDTO {
 
     @Override
     public String toString() {
-        return "PersonDTO{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", height=" + height +
+        return "입장한 사람{" +
+                "이름='" + name + '\'' +
+                ", 나이=" + age +
+                ", 키=" + height +
                 '}';
     }
 }
