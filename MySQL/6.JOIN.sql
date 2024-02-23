@@ -79,7 +79,7 @@ CROSS JOIN tbl_category b;
 
 -- 5. SELF JOIN
 -- 같은 테이블 내에서 행과 행 사이의 관계를 찾기 위해 사용되는 SQL JOIN 유형
--- 카테고리별 대분류 확인을 위한 SELF JOIN 조회alter
+-- 카테고리별 대분류 확인을 위한 SELF JOIN 조회
 SELECT
 	a.category_name,
     b.category_name
